@@ -1,0 +1,27 @@
+#sub{width:1280px; height:auto; margin:0 auto; background-color:skyblue;}
+.product{background-color:beige; width:50%; height:900px; float:left;}
+.product img{width: 640px;}
+.product>img:not(:first-of-type){display:none;}
+.product ul{display:flex; justify-content:space-evenly;}
+.info{width:50%; float:right; padding:20px;}
+.info h4 .orga_icon{ float:left; width:24px; height:24px; padding:2px; border-radius:50%; background:#aa8153 url(../img/orga-filled.svg) no-repeat 50% / 14px 14px;}
+.info h4 span{padding-left:10px;}
+.info h2{font-size:30px; margin:1% 0;}
+.info h3{color:rgb(43, 42, 42); margin:1% 0;}
+.info p{font-size:30px; padding:5px;}
+
+
+
+ 
+.info table{width:400px; border-top:3px solid #e9e9e9; border-bottom:2px solid #e9e9e9; font-family:"맑은 고딕"; position:absolute;}
+.info td{padding:6px 13px;}
+.info td:first-child{width:100px;}
+#green{display:flex; width:100px; height:auto;}
+#green img{width:50%;}
+
+button{cursor:pointer; border-radius:5px; padding:8px 16px; border:none; font-size: 20px; font-weight:bold;}
+button:first-child{background-color:beige;} 
+button:nth-child(2){background-color:bisque;}
+section:nth-of-type(2){clear:both;}
+
+#detail2{width:1100px; height:600px; margin:0 auto; }
