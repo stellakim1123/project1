@@ -22,13 +22,13 @@ article {
 }
 
 #slider>article>h2 {
-    font-size: 64px;
+    font-size: 60px;
     color: #a3cb36;
     margin-top: 70px;
 }
 
 article>p {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bold;
     color: #253e02;
     margin: 50px 0 80px 0;
@@ -91,7 +91,7 @@ section {
 }
 
 #best h2 {
-    font-size: 64px;
+    font-size: 60px;
     text-align: center;
     color: darkolivegreen;
     padding: 85px 0 5px;
@@ -100,7 +100,7 @@ section {
 #best p {
     text-align: center;
     color: rgb(54, 53, 53);
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .box {
@@ -207,7 +207,7 @@ span {
 }
 
 #img2 .textbox {
-    margin: 10px;
+    margin: 10px; font-size: 30px;
 }
 
 #img2>img {
@@ -222,7 +222,7 @@ span {
 }
 
 #orga .textbox p {
-    font-size: 24px;
+    font-size: 23px;
     padding: 40px 0;
 }
 
@@ -235,14 +235,14 @@ span {
 }
 
 #story h2 {
-    font-size: 64px;
+    font-size: 60px;
     text-align: right;
     padding: 70px 0;
     margin: 20px 0;
 }
 
 #story p {
-    font-size: 20px;
+    font-size: 23px;
     text-align: right;
     margin: 30px 0 0;
 }
@@ -279,13 +279,13 @@ span {
 }
 
 #review>h2 {
-    font-size: 64px;
+    font-size: 60px;
     float: left;
     padding: 100px 0 60px;
 }
 
 #review>span {
-    font-size: 24px;
+    font-size: 25px;
 }
 
 #a {
@@ -365,12 +365,12 @@ span {
 }
 
 #care h2 {
-    font-size: 64px;
+    font-size: 60px;
     margin: 10px 0;
 }
 
 #care p {
-    font-size: 16px;
+    font-size: 18px;
     margin: 20px 0;
 }
 
