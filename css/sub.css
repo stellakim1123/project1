@@ -4,6 +4,7 @@
 .product>img:not(:first-of-type){display:none;}
 .product ul{display:flex; justify-content:space-evenly;padding:0 120px;}
 .product ul li img{width:100px; height:100%;}
+
 .info{width:50%; float:right; padding:20px;}
 .info h4 .orga_icon{ float:left; width:24px; height:24px; padding:2px; border-radius:50%; background:#aa8153 url(../img/orga-filled.svg) no-repeat 50% / 14px 14px;}
 .info h4 span{padding-left:10px;}
@@ -11,7 +12,7 @@
 .info h3{color:rgb(43, 42, 42); margin:1% 0;}
 .info p{font-size:30px; padding:5px;}
  
-.info table{width:400px; border-top:3px solid #e9e9e9; border-bottom:2px solid #e9e9e9; font-family:"맑은 고딕"; position:absolute;}
+.info table{width:400px; border-top:3px solid #e9e9e9; font-family:"맑은 고딕"; position:absolute;}
 .info td{padding:6px 13px;}
 .info td:first-child{width:100px;}
 #green{display:flex; width:100px; height:auto;}
